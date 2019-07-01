@@ -1,0 +1,19 @@
+Name  Seed  Placement
+Kidder  1  1
+Branspeed  2  3
+10quidshoes  3  4
+Happens  4  2
+AC  5  5
+The Tation  6  5
+Tanki  7  7
+Dingus  8  7
+Goose  9  9
+Anthony  10  13
+Leeum  11  13
+OGMidori  12  13
+Pafos  13  9
+Slom  14  9
+Moester  15  9
+Skips  16  13
+Jerers  17  17
+SoberKirby  18  17

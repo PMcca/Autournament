@@ -1,0 +1,8 @@
+package: github.com/ec16431/autournament
+import:
+- package: github.com/zelenin/go-glicko2
+  vcs: git
+  repo: https://github.com/zelenin/go-glicko2.git
+
+- package: github.com/tidwall/gjson
+- package: github.com/tidwall/match

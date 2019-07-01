@@ -1,0 +1,8 @@
+Name  Seed  Placement
+Pafos  1  6
+Branspeed  2  1
+Goose  3  7
+AC  4  2
+The Tation  5  3
+Moby  6  4
+Leeum  7  5

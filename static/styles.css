@@ -1,0 +1,12 @@
+td, th {
+    border: 1px solid #dddddd;
+}
+
+.editList {
+    outline: thin solid black;
+    width: 200px;
+}
+
+#challongeUpdate {
+    margin-top: 20px;
+}

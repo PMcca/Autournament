@@ -1,0 +1,14 @@
+Name  Seed  Placement
+The Tation  1  1
+Jomo  2  5
+Goose  3  9
+Slom  4  7
+Ant4ony  5  2
+Pafos  6  3
+Leeum  7  7
+Moester  8  4
+Charlie G  9  5
+The Original Midori  10  9
+Comrade  11  9
+Skips  12  9
+Jerers  13  13

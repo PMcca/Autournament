@@ -1,0 +1,14 @@
+Name  Seed  Placement
+AC  1  1
+The Tation  2  2
+Ant4ony  3  7
+Pafos  4  5
+Leeum  5  4
+Woof  6  3
+Goose  7  9
+Skips  8  7
+Charlie G  9  9
+Slom  10  5
+Danubila  11  9
+Happii  12  9
+Kirby's Drunk  13  13

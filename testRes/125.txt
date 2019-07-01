@@ -1,0 +1,6 @@
+Name  Seed  Placement
+10QuidShoes  1  3
+Goose  2  1
+Jerers  3  4
+Skips  4  2
+KirbyT1000  5  5

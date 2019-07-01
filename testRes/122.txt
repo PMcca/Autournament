@@ -1,0 +1,17 @@
+Name  Seed  Placement
+Professor Pro  1  1
+Silas  2  2
+Kidder  3  3
+Duke  4  5
+AC  5  5
+The Tation  6  4
+Lylodile  7  9
+Moogled  8  9
+Hylian Likely  9  7
+Goose  10  9
+Comrade  11  9
+Moester  12  7
+Charlie G  13  13
+Skips  14  13
+Dull  15  13
+DrunkKirby  16  13

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>New Pool</title>
+    <link rel="stylesheet" type="text/css" href="/static/styles.css">
+</head>
+<body>
+<form id="frmPool" action="/save{{.Page.Title}}" method="POST">
+    <h3>Pool Name</h3>
+    <input id="inpName" type="text" name="name">
+
+    <h3>Players</h3>
+    <p>Enter the list of player names</p>
+    <div id="divPlayers">
+        <div id="divPlayer"><input type="text" placeholder="Player Name" name="player"></div>
+        <div id="divPlayer"><input type="text" placeholder="Player Name" name="player"></div>
+        <div id="divPlayer"><input type="text" placeholder="Player Name" name="player"></div>
+    </div>
+    <input type="button" id="btnAddPlayer" value="+">
+
+    <div><input id="submitPool" type="submit" value="Create"></div>
+</form>
+
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src="/static/scripts.js"></script>
+</body>
+</html>

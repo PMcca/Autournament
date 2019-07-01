@@ -1,0 +1,17 @@
+Name  Seed  Placement
+10quidshoes  1  1
+The Tation  2  7
+AC  3  2
+11quidsh0es  4  5
+Ant4ony  5  9
+Moester  6  9
+Pafos  7  3
+Woof  8  5
+Charlie G  9  9
+Leeum  10  7
+OG Midori  11  4
+Skips  12  9
+Comrade  13  13
+Happii  14  13
+Jerers  15  13
+WayV  16  13

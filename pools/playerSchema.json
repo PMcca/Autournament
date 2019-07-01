@@ -1,0 +1,15 @@
+{
+    "poolName" : "QM Smash",
+    "players":
+    [
+        {
+            "name" : "John",
+            "glicko" : {
+                "r" : 1500,
+                "rd" : 350,
+                "sig" : 0.06
+            },
+            "absences" : 0
+        }
+    ]
+}

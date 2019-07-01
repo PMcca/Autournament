@@ -1,0 +1,6 @@
+Name  Seed  Placement
+AC  1  1
+The Tation  2  3
+Kidder's garbage fox  3  2
+Wave  4  4
+Dull  5  5

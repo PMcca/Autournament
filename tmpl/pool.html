@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title id="poolTitle">{{.pName}}</title>
+    <link rel="stylesheet" type="text/css" href="/static/styles.css">
+</head>
+<body>
+{{if not .listPools }}
+<header><h3 id="poolName">{{.Pool.PoolName}}</h3></header>
+<table>
+    <tr>
+        <th>Player</th>
+        <th>Rating</th>
+        <th>Absences</th>
+    </tr>
+{{range $p := .Pool.Players}}
+    <tr class="playerRow">
+        <td>{{$p.Name}}</td>
+        <td>{{$p.Glicko.R}}</td>
+        <td>{{$p.Absences}}</td>
+        <td class="rmPlayer"><button class="btnRemove" data-player="{{$p.Name}}">X</button></td>
+        <td class="includePlayer"><input type="checkbox" class="chkInclude" value="{{$p.Name}}"></td>
+    </tr>
+{{end}}
+</table>
+<button id="btnEdit">Edit Pool</button>
+<button id="btnTournament">New Tournament</button>
+
+<div id="newPlayers">
+    <div id="divPlayers">
+        <div id="divPlayer"><input class="divPlayer" type="text" placeholder="Player Name" name="player"></div>
+    </div>
+    <button id="btnAddPlayer">+</button>
+    <button id="btnSubmitEdit">Submit</button>
+
+    <div id="challongeUpdate">
+        <button id="btnChallonge">Update via Challonge</button>
+        <input id="challongeURL" type="text" placeholder="Challonge Bracket URL" name="challongeURL">
+    </div>
+</div>
+<button id="btnTournamentSubmit">Submit Tourney</button>
+
+<div id="seedResults"></div>
+
+{{ else }}
+<header><h3>Pools</h3></header>
+<ul>
+{{range $p := .pools}}
+    <li><a href="{{$p}}">{{$p}}</a></li>
+{{ end }}
+</ul>
+{{ end }}
+
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src="/static/scripts.js"></script>
+</body>
+</html>

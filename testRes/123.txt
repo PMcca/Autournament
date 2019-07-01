@@ -1,0 +1,18 @@
+Name  Seed  Placement
+Branspeed  1  2
+Silas  2  7
+10quidshoes  3  3
+Kidder  4  1
+AC  5  5
+Dingus  6  13
+The Tation  7  4
+Ant  8  9
+Goose  9  9
+Leeum  10  7
+Moester  11  9
+Woof  12  5
+Charlie G  13  13
+Pafos  14  9
+Sl0m  15  13
+Skips  16  13
+Bunji  17  17

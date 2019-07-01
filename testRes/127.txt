@@ -1,0 +1,8 @@
+Name  Seed  Placement
+AC  1  2
+Zhulong  2  6
+The Original Midori  3  5
+10QuidShoes  4  1
+The Tation  5  4
+JoMo  6  3
+Charlie G  7  7
